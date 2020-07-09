@@ -8,12 +8,14 @@ import { ReactiveFormsModule } from "@angular/forms";
 
 import { EmployeesComponent } from './employees/employees.component';
 import { EmployeeComponent } from './employees/employee/employee.component';
+import { CardComponent } from './card/card.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     EmployeesComponent,
-    EmployeeComponent
+    EmployeeComponent,
+    CardComponent
   ],
   imports: [
     BrowserModule,
