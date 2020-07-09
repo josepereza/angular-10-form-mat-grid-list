@@ -14,20 +14,21 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     margin: 10px;
 }
 
-.controles-container{
+.controles-formulario{
     width: 100%;
     padding: 15%;    
 }
-.controles-container2{
+.controles-cards{
     width: 100%;
     padding: 1%;   
 }
 
 .micards{
     width: 100%;
-    padding: 40px;    
+    padding: 5%;    
+    
 }
-.controles-container > * {
+.controles-formulario > * {
     width: 100%;
     }
 
