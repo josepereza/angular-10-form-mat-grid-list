@@ -2,6 +2,7 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+* {box-sizing: border-box;}
 
 .fill-remaining-space {
     /* This fills the remaining space, by using flexbox. 
@@ -15,18 +16,16 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 .controles-container{
     width: 100%;
-    padding: 5%;    
+    padding: 15%;    
 }
 .controles-container2{
     width: 100%;
-    padding: 1%;    
+    padding: 1%;   
 }
 
 .micards{
-    width: 80%;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    width: 100%;
+    padding: 40px;    
 }
 .controles-container > * {
     width: 100%;
