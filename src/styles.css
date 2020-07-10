@@ -19,6 +19,10 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     padding: 15%;    
 }
 
+.controles-formulario > * {
+    width: 100%;
+    }
+    
 button{
  width: 100%;
 }
@@ -30,9 +34,7 @@ button{
 .example-card{
     background-color:rgba(245, 245, 220, 0.705);
 }
-.controles-formulario > * {
-    width: 100%;
-    }
+
 
     .add-bottom-padding{
         padding-bottom: 10px;
