@@ -18,15 +18,17 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     width: 100%;
     padding: 15%;    
 }
-.controles-cards{
-    width: 100%;
-    padding: 1%;   
-}
 
+button{
+ width: 100%;
+}
 .micards{
     width: 100%;
-    padding: 5%;    
+    padding: 5%;  
     
+}
+.example-card{
+    background-color:rgba(245, 245, 220, 0.705);
 }
 .controles-formulario > * {
     width: 100%;
